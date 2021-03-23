@@ -1,0 +1,39 @@
+let users = [
+    {
+        name:"kaushik",
+        age:"23",
+        married:false,
+    },
+    {
+        name:"rutvik",
+        age:"20",
+        married:false,
+    },
+    {
+        name:"diptesh",
+        age:"23",
+        married:true,
+    },
+    {
+        name:"rakesh",
+        age:"24",
+        married:true,
+    },
+    {
+        name:"ashish",
+        age:"23",
+        married:false,
+    },
+    {
+        name:"nikhil",
+        age:"19",
+        married:false,
+    },
+    {
+        name:"krishna",
+        age:"8",
+        married:false,
+    },
+]
+
+module.exports = {users};
